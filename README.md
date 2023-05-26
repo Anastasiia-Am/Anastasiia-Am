@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 align="center">My name is Anastasia Aminova</h1>
+<h1 align="center">My name is Anastasiia Aminova</h1>
 <h3 align="center"> I'm a graphic and web designer</h3>
 <br>
 <h3 color="grey">My favorite graphic editors</h3>
