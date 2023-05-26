@@ -1,5 +1,7 @@
 ### Hi there 👋
-<h1>I am Anastasia Aminova and I am a graphic designer and web designer</h1>
+<h1 align="center">My name is Anastasia Aminova and </h1>
+<h3 > I'm a graphic and web designer</h3>
+
 
 
 
