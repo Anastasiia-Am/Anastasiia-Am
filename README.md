@@ -1,7 +1,8 @@
 ### Hi there 👋
+<h1>I am Anastasia Aminova and I am a graphic designer and web designer</h1>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Anastasiia-Am)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **Anastasiia-Am/Anastasiia-Am** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +16,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Anastasiia-Am)](https://github.com/ryo-ma/github-profile-trophy)
 -->
