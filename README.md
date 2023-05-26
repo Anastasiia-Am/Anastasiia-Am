@@ -1,6 +1,6 @@
 ### Hi there 👋
-<h1 align="center">My name is Anastasia Aminova and </h1>
-<h3 > I'm a graphic and web designer</h3>
+<h1 align="center">My name is Anastasia Aminova</h1>
+<h3 align="center"> I'm a graphic and web designer</h3>
 
 
 
