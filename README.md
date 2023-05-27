@@ -14,15 +14,23 @@
   <h4>My skills and technique</h4>
 
 <div display="flex">
-   <img src="icons/adobeillustrator.svg" alt="Ai" width="45px" height="45px">
-    <img src="icons/figma.svg" alt="Figma" width="45px" height="45px">
-  <img src="icons/adobephotoshop.svg" alt="Ps" width="45px" height="45px">
-
+   <img src="icons/html5.svg" alt="HTML" width="45px" height="45px">
+    <img src="icons/css3.svg" alt="CSS" width="45px" height="45px">
+  <img src="icons/javascript.svg" alt="JS" width="30px" height="30px">
+  <img src="icons/sass.svg" alt="SASS" width="30px" height="30px">
 </div>
-
-
-
-
+<br>
+<h4>I write code</h4>
+<img src="icons/visualstudiocode.svg" alt="VSC" width="45px" height="45px">
+<hr>
+<h5>Now I'm studying</h5>
+<div display="flex">
+<img src="icons/javascript.svg" alt="JS" width="30px" height="30px">
+<img src="icons/jquery.svg" alt="jQ" width="30px" height="30px">
+<img src="icons/gulp.svg" alt="JS" width="20px" height="20px">
+<img src="icons/react.svg" alt="React" width="20px" height="20px">
+<img src="icons/angular.svg" alt="A" width="20px" height="20px">
+<img src="icons/typescript.svg" alt="TS" width="20px" height="20px">
 <!--
 **Anastasiia-Am/Anastasiia-Am** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
