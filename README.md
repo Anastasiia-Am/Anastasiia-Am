@@ -1,3 +1,4 @@
+<div background-color="#fefefe">
 ### Hi there 👋
 <h1 align="center">My name is Anastasiia Aminova</h1>
 <h3 align="center"> I'm a graphic and web designer, front-end development </h3>
@@ -31,6 +32,8 @@
 <img src="icons/react.svg" alt="React" width="20px" height="20px">
 <img src="icons/angular.svg" alt="A" width="20px" height="20px">
 <img src="icons/typescript.svg" alt="TS" width="20px" height="20px">
+  
+  </div>
 <!--
 **Anastasiia-Am/Anastasiia-Am** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
