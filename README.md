@@ -1,13 +1,25 @@
 ### Hi there 👋
 <h1 align="center">My name is Anastasiia Aminova</h1>
-<h3 align="center"> I'm a graphic and web designer</h3>
+<h3 align="center"> I'm a graphic and web designer,front-end development </h3>
 <br>
-<h3 color="grey">My favorite graphic editors</h3>
+<h4 color="green">My favorite graphic editors</h4>
 
 <div display="flex">
    <img src="icons/adobeillustrator.svg" alt="Ai" width="45px" height="45px">
     <img src="icons/figma.svg" alt="Figma" width="45px" height="45px">
-  </div>
+  <img src="icons/adobephotoshop.svg" alt="Ps" width="45px" height="45px">
+
+</div>
+<br>
+  <h4>My skills and technique</h4>
+
+<div display="flex">
+   <img src="icons/adobeillustrator.svg" alt="Ai" width="45px" height="45px">
+    <img src="icons/figma.svg" alt="Figma" width="45px" height="45px">
+  <img src="icons/adobephotoshop.svg" alt="Ps" width="45px" height="45px">
+
+</div>
+
 
 
 
