@@ -5,7 +5,8 @@
 <h3 color="grey">My favorite graphic editors</h3>
 
 <div display="flex">
-   <img src="icons/adobeillustrator.svg" alt="Ai" width="45px" height="45px"> 
+   <img src="icons/adobeillustrator.svg" alt="Ai" width="45px" height="45px">
+    <img src="icons/figma.svg" alt="Figma" width="45px" height="45px">
   </div>
 
 
