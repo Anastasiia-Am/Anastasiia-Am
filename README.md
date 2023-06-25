@@ -1,4 +1,4 @@
-<div style="background:#ffd4fd;">
+<div background="#ffd4fd">
 ### Hi there 👋
 <h1 align="center">My name is Anastasiia Aminova</h1>
 <h3 align="center"> I'm a graphic and web designer, front-end development </h3>
